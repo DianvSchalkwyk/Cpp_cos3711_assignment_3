@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/COS3711_A3">
+        <file>Resources/help_html.html</file>
+        <file>Resources/Images/backup.png</file>
+        <file>Resources/Images/box_icon.ico</file>
+        <file>Resources/Images/COS3711-Logistics.png</file>
+        <file>Resources/Images/COS3711-Logistics-about.png</file>
+        <file>Resources/Images/exit.png</file>
+        <file>Resources/Images/help.png</file>
+        <file>Resources/Images/info.png</file>
+        <file>Resources/Images/restore.png</file>
+        <file>Resources/Images/server_icon.ico</file>
+        <file>Resources/Images/xml.png</file>
+        <file>Resources/Images/COS3711-Logistics-help.png</file>
+    </qresource>
+</RCC>
